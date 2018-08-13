@@ -1,0 +1,26 @@
+{
+  "name": "learnJsFormState",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start -s -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DzmitryGrom/learnJsFormState.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DzmitryGrom/learnJsFormState/issues"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4"
+  },
+  "homepage": "https://github.com/DzmitryGrom/learnJsFormState#readme",
+  "dependencies": {
+    "jquery": "3.3.1"
+  }
+}
